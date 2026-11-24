@@ -40,5 +40,5 @@ We may block a user or remove the Bot from a server at any time, with or without
 8. Disclaimers and liability
 The Bot is provided "as is" and "as available", without warranties of any kind. To the fullest extent the law allows, the operator is not liable for any loss or damage from using the Bot, including lost data, lost XP or settings, missed moderation actions, or things said or done by other users. Nothing in these Terms limits any right you have by law that cannot be limited.
 9. Changes, governing law and contact
-We may update these Terms from time to time. The date at the top of the page shows when they last changed, and using the Bot after a change means you accept it. These Terms are governed by the laws of the place where the operator lives, and any dispute will be handled by the courts there, unless your local law says otherwise.
+We may update these Terms from time to time. The date at the top of the page shows when they last changed, and using the Bot after a change means you accept it. These Terms are governed by the laws of the State of New York, USA, and any dispute will be handled by the courts located in New York, unless your local law says otherwise.
 Questions about these Terms: message the Discord user kilog257.

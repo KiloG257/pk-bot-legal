@@ -26,6 +26,7 @@ Starboard, suggestions, announcements, changelog	Message text, author name and a
 Welcome and goodbye cards	Member name and avatar, your background image link	Only the background link. The card image is not saved
 Dashboard	A login cookie named pk_auth, set only after the correct password	The cookie lives in your browser. No other cookies or tracking
 Technical logs	Start-up messages and error details	Kept on the host, may include Discord IDs. No message content
+Dashboard login. If you log in to our web dashboard with Discord, we use Discord's OAuth service to read your Discord user ID, username and avatar, and to check which servers you manage. We use this only to confirm you have permission to manage the server you select. We do not store your Discord access token and we do not receive your password or email address.
 3. How we use it
 
 We use this information only to run the features listed above:
